@@ -1,0 +1,9 @@
+Sugestões para a próxima versão do Soilution:
+1. Dashboard inicial com alertas automáticos por bateria (subida/queda brusca de CE ou pH fora da faixa-alvo).
+2. Faixas de referência configuráveis por cultura, fase e profundidade para colorir leituras em verde/amarelo/vermelho.
+3. Comparativo por profundidade na mesma bateria com tendência semanal e mensal.
+4. Filtro de relatório por extrator/profundidade e resumo por bateria.
+5. Anotações com fotos de campo anexadas às leituras.
+6. Mapa das baterias com localização GPS.
+7. Exportação de relatório PDF mais visual, com gráficos e capa por fazenda/talhão.
+8. Sincronização em nuvem e multiusuário no futuro.
