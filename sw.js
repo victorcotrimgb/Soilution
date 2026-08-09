@@ -1,14 +1,14 @@
-const CACHE='soilution-v12.0.0-relatorio-premium';
+const CACHE='soilution-v13.0.0-relatorios-revisados';
 const CORE=[
   './',
   './index.html',
-  './manifest.json?v=12.0.0',
-  './icon-192.png?v=12.0.0',
-  './icon-512.png?v=12.0.0',
-  './icon-maskable-192.png?v=12.0.0',
-  './icon-maskable-512.png?v=12.0.0',
-  './apple-touch-icon.png?v=12.0.0',
-  './favicon-32.png?v=12.0.0'
+  './manifest.json?v=13.0.0',
+  './icon-192.png?v=13.0.0',
+  './icon-512.png?v=13.0.0',
+  './icon-maskable-192.png?v=13.0.0',
+  './icon-maskable-512.png?v=13.0.0',
+  './apple-touch-icon.png?v=13.0.0',
+  './favicon-32.png?v=13.0.0'
 ];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));

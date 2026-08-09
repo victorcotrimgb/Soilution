@@ -1,1 +1,1 @@
-Versão v12: adiciona relatório por coleta/leitura com gráficos de barras horizontais de CE e pH por profundidade, além do relatório histórico. O PDF do relatório por coleta também leva os dois gráficos. Arquivos exportados usam Soilution + Fazenda + data da coleta.
+Soilution v13 - relatórios revisados. Inclui relatório histórico e por coleta, profundidades ordenadas da mais rasa para a mais profunda, agrupamento de coleta sequencial, PDF redesenhado com cards/gráficos/tabelas e quebra de texto segura. Suba todos os arquivos para a raiz do GitHub Pages.
