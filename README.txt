@@ -1,1 +1,1 @@
-Versão v10 com fluxo sequencial de leituras por profundidade, relatório mais visual e ícone externo sem gota. Suba todos os arquivos para a raiz do repositório, substituindo os anteriores. Se o app já estiver instalado, remova e instale novamente para atualizar o ícone e o cache.
+Versão v12: adiciona relatório por coleta/leitura com gráficos de barras horizontais de CE e pH por profundidade, além do relatório histórico. O PDF do relatório por coleta também leva os dois gráficos. Arquivos exportados usam Soilution + Fazenda + data da coleta.
