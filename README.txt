@@ -1,1 +1,1 @@
-Versão v9 com o novo ícone preenchendo todo o espaço, sem margens brancas. Suba todos os arquivos desta pasta para a raiz do repositório, substituindo os anteriores. Se o app já estiver instalado, remova da tela inicial e instale novamente para atualizar o ícone.
+Versão v10 com fluxo sequencial de leituras por profundidade, relatório mais visual e ícone externo sem gota. Suba todos os arquivos para a raiz do repositório, substituindo os anteriores. Se o app já estiver instalado, remova e instale novamente para atualizar o ícone e o cache.
